@@ -34,7 +34,7 @@ params:
   title: 📓 F# Notes
 
   # OPTIONAL: custom favicon location
-  # favicon: 'location/to/favicon.png'
+  favicon: 'static/img/png/favicon.png'
 
   # whether to display on-hover link preview cards
   enableLinkPreview: true
