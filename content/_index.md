@@ -4,7 +4,7 @@ enableToc: false
 bookToc: false
 ---
 
-![F# Emblem](/static/svg/F_Sharp_logo.svg)
+![F# Emblem](/svg/F_Sharp_logo.svg)
 
 ## What is The Purpose of this Site?
 
