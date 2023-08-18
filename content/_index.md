@@ -1,6 +1,6 @@
 ---
 title: 🎼 Welcome!
-enableToc: false
+bookToC: false
 ---
 
 My name is Houston Haynes and I've been doing hardware and software engineering for a while now. I'm also a conservatory trained composer, so to the pun "F# Notes" for this site seemed to balance the nerd qualities of those two spheres. 🎵 😄 📐
@@ -32,7 +32,7 @@ While this site is based on Hugo and markdown, I'm also using the Obsidian note-
 
 > 🌐 __Projects:__ There will also be project-specific folders and pages where I'll keep track of progress and document various sidebars and digressions.including others as contributors to the repository for this site.
 
-### A Paved Path 🛣️
+## A Paved Path 🛣️
 
  While this is about my own *second brain* hopefully this will also serve to help others in finding their own way to the variety of resources available in this incredible ecosystem. For those that have recently discovered the treasure trove of open-source resources available to them in the F# world 🗺️ it can seem a bit daunting. So aside from code samples and chatter of that sort I'll park references and "pointers" to other locations around the web, which is part of the super-power of "second brain" applications like these. 
 
