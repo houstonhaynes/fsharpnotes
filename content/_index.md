@@ -11,7 +11,7 @@ While this site is based on Hugo and markdown, I'm also using the Obsidian note-
 
 ## What is The Purpose of this Site?
 
- This is a clearinghouse for short-form and long-form notes along my personal path to deeper understanding of F#. Because of the incredible "reach" of F# - into front end, back end, machine learning and analytics, as well as its incredible capabilities as a meta-language, this site will venture pretty far and wide. In the early stages I'll be focusing on "core" F# idioms. But as subjects 'fan out' there will be quite a bit about C# interop, as most of my current projects have crossover there.
+ This is a clearinghouse for short-form and long-form notes along my personal path to deeper understanding of F#. Because of the incredible "reach" of F# - into front end, back end, machine learning and Internet-of-Things, as well as its expansive capabilities as a *meta-language*, this site will venture pretty far and wide. In the early stages I'll be focusing on "core" F# idioms. But as subjects 'fan out' there will be quite a bit about C# interop, as most of my current projects have crossover there.
 
 ## 'Tis The Gift To Be Simple 🎶
 
