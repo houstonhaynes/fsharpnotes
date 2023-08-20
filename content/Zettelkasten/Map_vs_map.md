@@ -101,4 +101,4 @@ List<int> squaredNumbers = numOps.GetSquaredNumbers();
 
 ## Less is More
 
-One aspect that continues to surface with F# is its brevity - both its incredibly strong type inference and 'functional first' approach makes for very succinct code. Here, in this case, the **moment** of confusion led to a really expansive view of how well organized the F# language has been for nearly 20 years. Once you start looking at comparisons to other languages the relatively *low* cognitive burden of F# becomes one of its major advantages.
+One aspect that continues to surface with F# is its brevity - both its incredibly strong type inference and 'functional first' posture makes for very succinct code. Here, in this case, the **moment** of confusion led to a really expansive view of how well organized the F# language has been for nearly 20 years. Once you start looking at comparisons to other languages the relatively *low* cognitive burden of F# becomes one of its major advantages.
