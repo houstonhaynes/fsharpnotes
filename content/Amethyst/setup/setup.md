@@ -27,6 +27,6 @@ git clone https://github.com/YOUR-USERNAME/amethyst
 ## Editing
 Great! Now you have everything you need to start editing. If you're ready to start writing content already, check out the recommended flow for editing notes:
 
-> ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
+> ✏️ Step 2: [Editing Notes in Amethyst](/Amethyst/setup/editing.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](setup/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](/Amethyst/setup/troubleshooting.md).

@@ -74,7 +74,7 @@ attribute, are relative to the `static/` directory.
 To customize the Interactive Graph view, you can poke around `data/graphConfig.yaml`. The default configuration, with descriptions, can be found [here](https://github.com/64bitpandas/amethyst/blob/main/data/graphConfig.yaml).
 
 ### Language Support
-[Chinese, Japanese, and Korean support](features/language.md) comes out of the box with Amethyst.
+[Chinese, Japanese, and Korean support](/Amethyst/features/language.md) comes out of the box with Amethyst.
 
 Want to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Amethyst) supports this natively.
 
@@ -109,6 +109,6 @@ For example, the structure of the home page can be edited through `/layouts/inde
 
 More info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)
 
-Still having problems? Checkout our [FAQ and Troubleshooting guide](setup/troubleshooting.md).
+Still having problems? Checkout our [FAQ and Troubleshooting guide](/Amethyst/setup/troubleshooting.md).
 
 

@@ -12,7 +12,7 @@ Amethyst is designed to be effortless to deploy. If you forked and cloned Amethy
 ### Enable GitHub Actions
 By default, GitHub disables workflows from running automatically on Forked Repostories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your site!
 
-![Enable GitHub Actions](/setup/images/github-actions.png)*Enable GitHub Actions*
+![Enable GitHub Actions](/Amethyst/setup/images/github-actions.png)*Enable GitHub Actions*
 
 ### Enable GitHub Pages
 
@@ -21,7 +21,7 @@ Head to the 'Settings' tab of your forked repository and go to the 'Pages' tab.
 1. (IMPORTANT) Set the source to deploy from `master` (and not `hugo`) using `/ (root)`
 2. Set a custom domain here if you have one!
 
-![Enable GitHub Pages](/setup/images/github-pages.png)*Enable GitHub Pages*
+![Enable GitHub Pages](/Amethyst/setup/images/github-pages.png)*Enable GitHub Pages*
 
 ### Pushing Changes
 To see your changes on the internet, we need to push it them to GitHub. Amethyst is a `git` repository so updating it is the same workflow as you would follow as if it were just a regular software project.
@@ -77,17 +77,17 @@ Please note that the `cname` field should *not* have any path `e.g. end with /am
 	cname: <YOUR-DOMAIN>
 ```
 
-Have a custom domain? [Learn how to set it up with Amethyst ](setup/custom%20Domain.md).
+Have a custom domain? [Learn how to set it up with Amethyst ](/Amethyst/setup/custom%20Domain.md).
 
 ### Ignoring Files
 Only want to publish a subset of all of your notes? Don't worry, Amethyst makes this a simple two-step process.
 
-❌ [Excluding pages from being published](setup/ignore%20notes.md)
+❌ [Excluding pages from being published](/Amethyst/setup/ignore%20notes.md)
 
 ---
 
 Now that your site is live, let's figure out how to make Amethyst really *yours*!
 
-> Step 6: 🎨 [Customizing Amethyst](setup/config.md)
+> Step 6: 🎨 [Customizing Amethyst](/Amethyst/setup/config.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](setup/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](/Amethyst/setup/troubleshooting.md).
