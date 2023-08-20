@@ -10,6 +10,7 @@ This was one of the first things that *initially* confused me about F#. When I l
 Pretty quickly I figured out that "Map" is like a dictionary in C#, and ordered collection of key-value pairs.
 
 ```fsharp
+(* F# operation  *)
 let myMap = Map.ofList [ ("apple", 1); ("banana", 2) ]
 let value = myNewMap.["apple"]  // value will be 1
 ```
@@ -17,6 +18,7 @@ let value = myNewMap.["apple"]  // value will be 1
 This is a list of key-value tuples which are fed into a Map. And while R doesn't have a specific "Map" construct, it *does* have the concept of a named list, which operates in much the same fashion.
 
 ```r
+# this is R code 
 dict <- list(apple = 1, banana = 2)
 dict$apple  # Accesses the value 1
 ```
@@ -26,7 +28,7 @@ dict$apple  # Accesses the value 1
 This is considered a higher-order function in F# and is part of the standard library. It applies a given function to each item in a list (or other 'mappable' collection), and returns a new collection containing the results. So the 'higher order' bit is about how map takes whatever function you pass to it so that the map operation can process each value in the collection through that function to render a new value.
 
 ```fsharp
-(* pass a list into a map function to square each value *)
+(* F# operation that 'pipes' a list into a map operation that multiples each value by itself *)
 
 [1; 2; 3; 4; 5] |> List.map (fun n -> n * n)
 
@@ -38,6 +40,7 @@ While the Python version of map is less used (as list comprehensions often repla
 While there's no 'map' in the core C# language, it offers something similar in the LINQ library with the 'Select' method.
 
 ```csharp
+// C# operation over a list of individual values
 using System;
 using System.Linq;
 
