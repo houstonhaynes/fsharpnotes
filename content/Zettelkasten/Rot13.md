@@ -8,9 +8,7 @@ tags:
 
 The 'ROT13' algorithm is an introductory lesson in obfuscation that 'rotates' the alphabet by 13 positions (half of the full length of 26 characters) to create a new, harder-to-read result. It serves as an initial model for those that are new to cryptography to work out through inductive reasoning. 
 
-```fsharp
-(* Rot13 implemented in F# *)
-
+```fsharp {title="F# sample showing ROT13 character rotation"}
 open System.Text
 
 let rotChar (c:char) offset = int c + offset |> char
