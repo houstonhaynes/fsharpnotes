@@ -58,7 +58,7 @@ int? value = myDictClass.GetValueByKey("apple"); // Should return 1
 int? nonExistentValue = myDictClass.GetValueByKey("orange"); // Should return null
 ```
 
-
+Once I had this sorted out things quickly fell into place.
 
 ## Lower case 'm' map as an operation in F#
 
