@@ -1,5 +1,5 @@
 ---
 weight: 3
 bookCollapseSection: false
-title: "zettelkasten"
+title: "Zettelkasten"
 ---
