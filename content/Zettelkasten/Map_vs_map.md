@@ -7,7 +7,7 @@ This was one of the first things that *initially* confused me about F#. When I l
 
 ## Map is a special type of collection
 
-Pretty quickly I figured out that "Map" is like a dictionary in C#, and ordered collection of key-value pairs. Here's a brief example of a Map in F#.
+Pretty quickly I figured out that "Map" is like a dictionary in C#, an ordered collection of key-value pairs. Here's a brief example of a Map in F#.
 
 ```fsharp {title="F# Map creation and value access", linenos=false}
 let myMap = Map.ofList [ ("apple", 1); ("banana", 2) ]
