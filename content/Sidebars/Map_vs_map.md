@@ -11,7 +11,7 @@ Pretty quickly I figured out that "Map" is like a dictionary in C#, an ordered c
 
 ```fsharp {title="F# Map creation and value access", linenos=false}
 let myMap = Map.ofList [ ("apple", 1); ("banana", 2) ]
-let value = myMap.["apple"]  // value will be 1
+let value = myMap["apple"]  // value will be 1
 ```
 
 This is a list of key-value tuples which create the Map. And while R doesn't have a specific "Map" construct, it *does* have the concept of a 'named list', which operates in much the same fashion.
