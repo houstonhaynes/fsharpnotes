@@ -36,4 +36,4 @@ make serve
 
 Now that you are happy with how your Amethyst instance looks, let's get it hosted!
 
-> 🌍 Step 5: [Hosting Amethyst online!](/Amethyst/setup/hosting.md)
+> 🌍 Step 5: [Hosting Amethyst online!](/amethyst/setup/hosting.md)

@@ -19,7 +19,7 @@ To create a link between notes in your garden, just create a normal link using M
 
 ```markdown
 For example, I want to link this current document to `setup/config.md`.
-[A link to the config page](/Amethyst/setup/config.md)
+[A link to the config page](/amethyst/setup/config.md)
 ```
 
 Similarly, you can put local images anywhere in the `/content` folder.
@@ -81,18 +81,18 @@ Amethyst is built especially for use with [Obsidian](http://obsidian.md/) as a t
 
 See below for more information:
 
-> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](/Amethyst/setup/obsidian.md)
+> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](/amethyst/setup/obsidian.md)
 
 ## Previewing Changes
 This step is purely optional and mostly for those who want to see the published version of their digital garden locally before opening it up to the internet. This is *highly recommended* but not required.
 
-> 👀 Step 4: [Preview Changes](/Amethyst/setup/preview%20changes.md)
+> 👀 Step 4: [Preview Changes](/amethyst/setup/preview%20changes.md)
 
 For those who like to live life more on the edge, viewing the garden through Obsidian gets you pretty close to the real thing.
 
 ## Publishing Changes
 After you've finished editing your notes, you can publish them to the internet!
 
-> 🌍 Step 5: [Hosting Amethyst online!](/Amethyst/setup/hosting.md)
+> 🌍 Step 5: [Hosting Amethyst online!](/amethyst/setup/hosting.md)
 
-Having problems? Check out our [FAQ and Troubleshooting guide](/Amethyst/setup/troubleshooting.md).
+Having problems? Check out our [FAQ and Troubleshooting guide](/amethyst/setup/troubleshooting.md).

@@ -4,94 +4,94 @@
       "/amethyst/features/languages": [
         {
           "source": "/amethyst/features/languages",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "config"
         }
       ],
       "/amethyst/setup/config": [
         {
           "source": "/amethyst/setup/config",
-          "target": "/Amethyst/features/language",
+          "target": "/amethyst/features/language",
           "text": "Chinese, Japanese, and Korean support"
         },
         {
           "source": "/amethyst/setup/config",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
       "/amethyst/setup/editing": [
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/obsidian",
+          "target": "/amethyst/setup/obsidian",
           "text": "How to setup your Obsidian Vault to work with Amethyst"
         },
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/preview%20changes",
+          "target": "/amethyst/setup/preview%20changes",
           "text": "Preview Changes"
         },
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "Hosting Amethyst online!"
         },
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
       "/amethyst/setup/hosting": [
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/custom%20Domain",
+          "target": "/amethyst/setup/custom%20Domain",
           "text": "Learn how to set it up with Amethyst"
         },
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/ignore%20notes",
+          "target": "/amethyst/setup/ignore%20notes",
           "text": "Excluding pages from being published"
         },
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "Customizing Amethyst"
         },
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
       "/amethyst/setup/obsidian": [
         {
           "source": "/amethyst/setup/obsidian",
-          "target": "/Amethyst/setup/setup",
+          "target": "/amethyst/setup/setup",
           "text": "setup"
         },
         {
           "source": "/amethyst/setup/obsidian",
-          "target": "/Amethyst/setup/preview%20changes",
+          "target": "/amethyst/setup/preview%20changes",
           "text": "Preview Changes"
         }
       ],
       "/amethyst/setup/preview-changes": [
         {
           "source": "/amethyst/setup/preview-changes",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "Hosting Amethyst online!"
         }
       ],
       "/amethyst/setup/setup": [
         {
           "source": "/amethyst/setup/setup",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "Editing Notes in Amethyst"
         },
         {
           "source": "/amethyst/setup/setup",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
@@ -103,54 +103,47 @@
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "hosting"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/ignore%20notes",
+          "target": "/amethyst/setup/ignore%20notes",
           "text": "excluding pages from being published"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "hosting"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/obsidian",
+          "target": "/amethyst/setup/obsidian",
           "text": "Obsidian"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "the 'how to edit' guide"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "the hosting guide"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "customization guide"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "local editing"
         }
       ]
     },
     "backlinks": {
-      "/Amethyst/features/language": [
-        {
-          "source": "/amethyst/setup/config",
-          "target": "/Amethyst/features/language",
-          "text": "Chinese, Japanese, and Korean support"
-        }
-      ],
       "/Amethyst/features/latex": [
         {
           "source": "/amethyst/setup/troubleshooting",
@@ -158,136 +151,143 @@
           "text": "LaTeX"
         }
       ],
-      "/Amethyst/setup/config": [
+      "/amethyst/features/language": [
+        {
+          "source": "/amethyst/setup/config",
+          "target": "/amethyst/features/language",
+          "text": "Chinese, Japanese, and Korean support"
+        }
+      ],
+      "/amethyst/setup/config": [
         {
           "source": "/amethyst/features/languages",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "config"
         },
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "Customizing Amethyst"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/config",
+          "target": "/amethyst/setup/config",
           "text": "customization guide"
         }
       ],
-      "/Amethyst/setup/custom%20Domain": [
+      "/amethyst/setup/custom%20Domain": [
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/custom%20Domain",
+          "target": "/amethyst/setup/custom%20Domain",
           "text": "Learn how to set it up with Amethyst"
         }
       ],
-      "/Amethyst/setup/editing": [
+      "/amethyst/setup/editing": [
         {
           "source": "/amethyst/setup/setup",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "Editing Notes in Amethyst"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "the 'how to edit' guide"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/editing",
+          "target": "/amethyst/setup/editing",
           "text": "local editing"
         }
       ],
-      "/Amethyst/setup/hosting": [
+      "/amethyst/setup/hosting": [
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "Hosting Amethyst online!"
         },
         {
           "source": "/amethyst/setup/preview-changes",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "Hosting Amethyst online!"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "hosting"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "hosting"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/hosting",
+          "target": "/amethyst/setup/hosting",
           "text": "the hosting guide"
         }
       ],
-      "/Amethyst/setup/ignore%20notes": [
+      "/amethyst/setup/ignore%20notes": [
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/ignore%20notes",
+          "target": "/amethyst/setup/ignore%20notes",
           "text": "Excluding pages from being published"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/ignore%20notes",
+          "target": "/amethyst/setup/ignore%20notes",
           "text": "excluding pages from being published"
         }
       ],
-      "/Amethyst/setup/obsidian": [
+      "/amethyst/setup/obsidian": [
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/obsidian",
+          "target": "/amethyst/setup/obsidian",
           "text": "How to setup your Obsidian Vault to work with Amethyst"
         },
         {
           "source": "/amethyst/setup/troubleshooting",
-          "target": "/Amethyst/setup/obsidian",
+          "target": "/amethyst/setup/obsidian",
           "text": "Obsidian"
         }
       ],
-      "/Amethyst/setup/preview%20changes": [
+      "/amethyst/setup/preview%20changes": [
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/preview%20changes",
+          "target": "/amethyst/setup/preview%20changes",
           "text": "Preview Changes"
         },
         {
           "source": "/amethyst/setup/obsidian",
-          "target": "/Amethyst/setup/preview%20changes",
+          "target": "/amethyst/setup/preview%20changes",
           "text": "Preview Changes"
         }
       ],
-      "/Amethyst/setup/setup": [
+      "/amethyst/setup/setup": [
         {
           "source": "/amethyst/setup/obsidian",
-          "target": "/Amethyst/setup/setup",
+          "target": "/amethyst/setup/setup",
           "text": "setup"
         }
       ],
-      "/Amethyst/setup/troubleshooting": [
+      "/amethyst/setup/troubleshooting": [
         {
           "source": "/amethyst/setup/config",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
           "source": "/amethyst/setup/editing",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
           "source": "/amethyst/setup/hosting",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
           "source": "/amethyst/setup/setup",
-          "target": "/Amethyst/setup/troubleshooting",
+          "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ]
@@ -296,82 +296,82 @@
   "links": [
     {
       "source": "/amethyst/features/languages",
-      "target": "/Amethyst/setup/config",
+      "target": "/amethyst/setup/config",
       "text": "config"
     },
     {
       "source": "/amethyst/setup/config",
-      "target": "/Amethyst/features/language",
+      "target": "/amethyst/features/language",
       "text": "Chinese, Japanese, and Korean support"
     },
     {
       "source": "/amethyst/setup/config",
-      "target": "/Amethyst/setup/troubleshooting",
+      "target": "/amethyst/setup/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
       "source": "/amethyst/setup/editing",
-      "target": "/Amethyst/setup/obsidian",
+      "target": "/amethyst/setup/obsidian",
       "text": "How to setup your Obsidian Vault to work with Amethyst"
     },
     {
       "source": "/amethyst/setup/editing",
-      "target": "/Amethyst/setup/preview%20changes",
+      "target": "/amethyst/setup/preview%20changes",
       "text": "Preview Changes"
     },
     {
       "source": "/amethyst/setup/editing",
-      "target": "/Amethyst/setup/hosting",
+      "target": "/amethyst/setup/hosting",
       "text": "Hosting Amethyst online!"
     },
     {
       "source": "/amethyst/setup/editing",
-      "target": "/Amethyst/setup/troubleshooting",
+      "target": "/amethyst/setup/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
       "source": "/amethyst/setup/hosting",
-      "target": "/Amethyst/setup/custom%20Domain",
+      "target": "/amethyst/setup/custom%20Domain",
       "text": "Learn how to set it up with Amethyst"
     },
     {
       "source": "/amethyst/setup/hosting",
-      "target": "/Amethyst/setup/ignore%20notes",
+      "target": "/amethyst/setup/ignore%20notes",
       "text": "Excluding pages from being published"
     },
     {
       "source": "/amethyst/setup/hosting",
-      "target": "/Amethyst/setup/config",
+      "target": "/amethyst/setup/config",
       "text": "Customizing Amethyst"
     },
     {
       "source": "/amethyst/setup/hosting",
-      "target": "/Amethyst/setup/troubleshooting",
+      "target": "/amethyst/setup/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
       "source": "/amethyst/setup/obsidian",
-      "target": "/Amethyst/setup/setup",
+      "target": "/amethyst/setup/setup",
       "text": "setup"
     },
     {
       "source": "/amethyst/setup/obsidian",
-      "target": "/Amethyst/setup/preview%20changes",
+      "target": "/amethyst/setup/preview%20changes",
       "text": "Preview Changes"
     },
     {
       "source": "/amethyst/setup/preview-changes",
-      "target": "/Amethyst/setup/hosting",
+      "target": "/amethyst/setup/hosting",
       "text": "Hosting Amethyst online!"
     },
     {
       "source": "/amethyst/setup/setup",
-      "target": "/Amethyst/setup/editing",
+      "target": "/amethyst/setup/editing",
       "text": "Editing Notes in Amethyst"
     },
     {
       "source": "/amethyst/setup/setup",
-      "target": "/Amethyst/setup/troubleshooting",
+      "target": "/amethyst/setup/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
@@ -381,42 +381,42 @@
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/hosting",
+      "target": "/amethyst/setup/hosting",
       "text": "hosting"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/ignore%20notes",
+      "target": "/amethyst/setup/ignore%20notes",
       "text": "excluding pages from being published"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/hosting",
+      "target": "/amethyst/setup/hosting",
       "text": "hosting"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/obsidian",
+      "target": "/amethyst/setup/obsidian",
       "text": "Obsidian"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/editing",
+      "target": "/amethyst/setup/editing",
       "text": "the 'how to edit' guide"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/hosting",
+      "target": "/amethyst/setup/hosting",
       "text": "the hosting guide"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/config",
+      "target": "/amethyst/setup/config",
       "text": "customization guide"
     },
     {
       "source": "/amethyst/setup/troubleshooting",
-      "target": "/Amethyst/setup/editing",
+      "target": "/amethyst/setup/editing",
       "text": "local editing"
     }
   ]
