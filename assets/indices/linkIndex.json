@@ -1,6 +1,13 @@
 {
   "index": {
     "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "I've found \"a home\""
+        }
+      ],
       "/amethyst/features/languages": [
         {
           "source": "/amethyst/features/languages",
@@ -140,6 +147,361 @@
           "source": "/amethyst/setup/troubleshooting",
           "target": "/amethyst/setup/editing",
           "text": "local editing"
+        }
+      ],
+      "/perspectives/WTFSIN_1/": [
+        {
+          "source": "/perspectives/WTFSIN_1/",
+          "target": "/perspectives/WTFSIN_2",
+          "text": "follow up this article with an updated version for 2023"
+        }
+      ],
+      "/perspectives/WTFSIN_1/a_more_functional_approach": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto": [
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/coda_open_source_balancing_act": [
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        }
+      ],
+      "/perspectives/WTFSIN_1/machine_learning": [
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/other_learning_projects": [
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/success_and_kinesthetic_learning": [
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD": [
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/warehouse_full_of_cannibals": [
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_2/": [
+        {
+          "source": "/perspectives/WTFSIN_2/",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "testing"
         }
       ]
     },
@@ -290,10 +652,375 @@
           "target": "/amethyst/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
+      ],
+      "/perspectives/WTFSIN_1": [
+        {
+          "source": "/",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "I've found \"a home\""
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "What The F# is Next (original)"
+        },
+        {
+          "source": "/perspectives/WTFSIN_2/",
+          "target": "/perspectives/WTFSIN_1",
+          "text": "testing"
+        }
+      ],
+      "/perspectives/WTFSIN_1/a_more_functional_approach": [
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "text": "A More Functional Approach"
+        }
+      ],
+      "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+        }
+      ],
+      "/perspectives/WTFSIN_1/coda_open_source_balancing_act": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+        }
+      ],
+      "/perspectives/WTFSIN_1/machine_learning": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/machine_learning",
+          "text": "Machine Learning"
+        }
+      ],
+      "/perspectives/WTFSIN_1/other_learning_projects": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/other_learning_projects",
+          "text": "Other Learning Projects"
+        }
+      ],
+      "/perspectives/WTFSIN_1/success_and_kinesthetic_learning": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "text": "Success and Kinesthetic Learning"
+        }
+      ],
+      "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "text": "The Wrong Kind of DDD"
+        }
+      ],
+      "/perspectives/WTFSIN_1/warehouse_full_of_cannibals": [
+        {
+          "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/machine_learning",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/other_learning_projects",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        },
+        {
+          "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+          "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+          "text": "Warehouse Full of Cannibals"
+        }
+      ],
+      "/perspectives/WTFSIN_2": [
+        {
+          "source": "/perspectives/WTFSIN_1/",
+          "target": "/perspectives/WTFSIN_2",
+          "text": "follow up this article with an updated version for 2023"
+        }
       ]
     }
   },
   "links": [
+    {
+      "source": "/",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "I've found \"a home\""
+    },
     {
       "source": "/amethyst/features/languages",
       "target": "/amethyst/setup/config",
@@ -418,6 +1145,341 @@
       "source": "/amethyst/setup/troubleshooting",
       "target": "/amethyst/setup/editing",
       "text": "local editing"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/",
+      "target": "/perspectives/WTFSIN_2",
+      "text": "follow up this article with an updated version for 2023"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/machine_learning",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/other_learning_projects",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "text": "Warehouse Full of Cannibals"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "What The F# is Next (original)"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/the_wrong_kind_of_DDD",
+      "text": "The Wrong Kind of DDD"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/a_more_functional_approach",
+      "text": "A More Functional Approach"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/machine_learning",
+      "text": "Machine Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/success_and_kinesthetic_learning",
+      "text": "Success and Kinesthetic Learning"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/akka_and_the_reactive_manifesto",
+      "text": "Akka.NET, Actor Model and the Reactive Manifesto"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/other_learning_projects",
+      "text": "Other Learning Projects"
+    },
+    {
+      "source": "/perspectives/WTFSIN_1/warehouse_full_of_cannibals",
+      "target": "/perspectives/WTFSIN_1/coda_open_source_balancing_act",
+      "text": "Coda - Microsoft, The Enterprise \u0026 The Open Source Balancing Act"
+    },
+    {
+      "source": "/perspectives/WTFSIN_2/",
+      "target": "/perspectives/WTFSIN_1",
+      "text": "testing"
     }
   ]
 }
